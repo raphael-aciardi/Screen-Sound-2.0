@@ -1,11 +1,12 @@
 ﻿class Banda
 {
-
     private List<Album> albums = new List<Album>();
+
     public Banda(string nome)
     {
         Nome = nome;
     }
+
     public string Nome { get; }
 
     public void AdicionarAlbum(Album album)
@@ -18,9 +19,7 @@
         Console.WriteLine($"Discografia da banda {Nome}");
         foreach (Album album in albums)
         {
-            Console.WriteLine($"Album: {album.Nome} ({album.DuracaoTotal})");
+            Console.WriteLine($"Álbum: {album.Nome} ({album.DuracaoTotal})");
         }
     }
 }
-
-
