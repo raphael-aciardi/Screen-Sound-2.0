@@ -1,6 +1,5 @@
 ﻿Banda queen = new Banda("Queen");
 
-
 Album albumDoQueen = new Album("A night at the opera");
 
 Musica musica1 = new Musica(queen, "Love of my life")
@@ -8,6 +7,9 @@ Musica musica1 = new Musica(queen, "Love of my life")
     Duracao = 213,
     Disponivel = true,
 };
+
+ReprodutordeMusica reprodutordeMusica = new ReprodutordeMusica(musica1);
+
 
 
 Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
@@ -27,3 +29,10 @@ musica2.ExibirFichaTecnica();
 
 queen.ExibirDiscografia();
 albumDoQueen.ExibirMusicasDoAlbum();
+
+
+Console.WriteLine(reprodutordeMusica.Estado);
+
+reprodutordeMusica.VolumeM(12);
+
+reprodutordeMusica.Avançar();
