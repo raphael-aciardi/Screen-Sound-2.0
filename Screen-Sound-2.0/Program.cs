@@ -8,7 +8,7 @@ Musica musica1 = new Musica(queen, "Love of my life")
     Disponivel = true,
 };
 
-ReprodutordeMusica reprodutordeMusica = new ReprodutordeMusica(musica1);
+
 
 
 
@@ -31,8 +31,4 @@ queen.ExibirDiscografia();
 albumDoQueen.ExibirMusicasDoAlbum();
 
 
-Console.WriteLine(reprodutordeMusica.Estado);
 
-reprodutordeMusica.VolumeM(12);
-
-reprodutordeMusica.Avançar();

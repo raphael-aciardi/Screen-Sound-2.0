@@ -1,13 +1,10 @@
-<<<<<<< HEAD
 ﻿
-
 class ReprodutordeMusica
 {
 
-    public ReprodutordeMusica(Musica musicaAtual)
+    public ReprodutordeMusica()
     {
         Estado = "Despausado";
-        MusicaAtual = musicaAtual;
         Volume = 0;
     }
 
@@ -40,21 +37,3 @@ class ReprodutordeMusica
         Console.WriteLine($"O volume foi alterado para: {Volume}%");
     }
 }
-=======
-﻿using System.Security.Cryptography.X509Certificates;
-
-class ReprodutordeMusica
-{
-    List<Musica> musicas = new List<Musica>();
-    public ReprodutordeMusica(Musica musica, string estado, string musicaAtual)
-    {
-        MusicaAtual = musica;
-        Estado = estado;
-        MusicaAtual = musicaAtual;
-    }
-
-    public string MusicaAtual { get; private set; }
-    public string Estado { get; private set; }
-};
-
->>>>>>> 69bdf4f677b4b164c6a747ae8099aa3f0ef33a11
