@@ -13,3 +13,18 @@ C:\Users\User\source\repos\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\re
 C:\Users\User\source\repos\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.pdb
 C:\Users\User\source\repos\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.genruntimeconfig.cache
 C:\Users\User\source\repos\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\ref\Screen-Sound-2.0.dll
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\bin\Debug\net8.0\Screen-Sound-2.0.exe
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\bin\Debug\net8.0\Screen-Sound-2.0.deps.json
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\bin\Debug\net8.0\Screen-Sound-2.0.runtimeconfig.json
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\bin\Debug\net8.0\Screen-Sound-2.0.dll
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\bin\Debug\net8.0\Screen-Sound-2.0.pdb
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.AssemblyInfoInputs.cache
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.AssemblyInfo.cs
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.csproj.CoreCompileInputs.cache
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.sourcelink.json
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.dll
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\refint\Screen-Sound-2.0.dll
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.pdb
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\Screen-Sound-2.0.genruntimeconfig.cache
+C:\Users\DOQR - NOTE 03\OneDrive - doqr.com.br\Documentos\Projeto\Screen-Sound-2.0\Screen-Sound-2.0\obj\Debug\net8.0\ref\Screen-Sound-2.0.dll
