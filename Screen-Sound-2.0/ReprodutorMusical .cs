@@ -4,7 +4,7 @@ class ReprodutordeMusica
 
     public ReprodutordeMusica()
     {
-        Estado = "Despausado";
+        Estado = "Tocando";
         Volume = 0;
     }
 
@@ -24,16 +24,16 @@ class ReprodutordeMusica
     }
     public void Avançar()
     {
-        Console.WriteLine("Avançar 10 seg");
+        Console.WriteLine($"avançou a música {MusicaAtual} 10 seg");
     }
     public void Voltar()
     {
-        Console.WriteLine("Voltar 10 seg");
+        Console.WriteLine($"Voltou a música {MusicaAtual} 10 seg");
     }
 
     public void VolumeM(int volume)
     {
         Volume = volume;
-        Console.WriteLine($"O volume foi alterado para: {Volume}%");
+        Console.WriteLine($"alterou o volume para: {Volume}%");
     }
 }
