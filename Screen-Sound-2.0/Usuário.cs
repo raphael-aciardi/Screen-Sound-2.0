@@ -38,11 +38,4 @@ class Usuario
         ReprodutordoUsuario.VolumeM(10);
         
     }
-
-    public void VerificarEstado()
-    {
-
-    }
-
-
 }
